@@ -2,7 +2,9 @@
     CONSOLE APPLICATION : OpenGL2DTemplate Project Overview
 ========================================================================
 
-AppWizard has created this OpenGL2DTemplate application for you.
+A simple OpenGL game built using C++ and GLUT. It includes basic graphics rendering, keyboard controls, and real-time animation. Designed as a course project to practice transformations, drawing, and interactive gameplay.
+
+AppWizard has created this OpenGL2DTemplate application.
 
 This file contains a summary of what you will find in each of the files that
 make up your OpenGL2DTemplate application.
